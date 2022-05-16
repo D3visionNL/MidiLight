@@ -1,3 +1,4 @@
+<image src="https://i.imgur.com/tXwTaqJ.png" height="200px"></image>
 # MidiLight
 Automatically connects various MIDI devices to the GrandMA2 OnPC software.
 
